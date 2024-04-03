@@ -1,7 +1,3 @@
-"""
-Have Fun!
-- 189 Course Staff
-"""
 from collections import Counter
 import numpy as np
 from numpy import genfromtxt
